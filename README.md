@@ -1,3 +1,5 @@
+Added a  new footer in the index doc
+
 the email address was fixed. 
 # Salesforce DX Project: Next Steps
 
